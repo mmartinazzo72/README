@@ -26,3 +26,6 @@ Além das ferramentas que disponho nos ícones abaixo, eu ainda trabalho com Exc
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/0aaef939-3ed6-4e3e-9960-30cbe36ac2ea" />
 
 Se você quiser entrar em contato comigo para conversarmos sobre Tech, fique a vontade em me contatar através do GitHub, LinkedIn e e-mail.
+
+Abaixo, disponibilizo alguns dos projetos que eu trabalhei dentro do Bootcamp em Ciência de Dados da TripleTen e alguns projetos pessoais que havia criado antes, em HTML e CSS.
+
