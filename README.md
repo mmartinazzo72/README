@@ -21,6 +21,6 @@ Atualmente, estou buscando atuar em projetos que eu possa contribuir como integr
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/d64974a7-7ed7-4e94-9bc4-9c089af427d3" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d64974a7-7ed7-4e94-9bc4-9c089af427d3" />
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/c9653ff0-be1d-4b7e-bfdf-c87fa0f88b01" />
 
