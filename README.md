@@ -19,8 +19,6 @@ Se você quiser entrar em contato comigo para conversarmos sobre Tech, fique a v
 
 Atualmente, estou buscando atuar em projetos que eu possa contribuir como integrante de um time, realizando parte de um todo em um projeto de Data Science.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d64974a7-7ed7-4e94-9bc4-9c089af427d3" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c9653ff0-be1d-4b7e-bfdf-c87fa0f88b01" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/14ad61d1-65ee-4011-8e7c-17793d03e3b1" />
